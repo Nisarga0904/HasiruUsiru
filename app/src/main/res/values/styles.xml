@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.HasiruUsiru" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/leaf</item>
+        <item name="colorPrimaryVariant">@color/leaf_dark</item>
+        <item name="colorSecondary">@color/sun</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/mist</item>
+    </style>
+</resources>
