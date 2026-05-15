@@ -183,14 +183,15 @@ Shows login and offline access support.
 ### Tree Tagger
 Users can record trees and upload details.
 
-![Tree Tagger](screenshots/tagger.jpeg)
+![Tree Tagger](screenshots/Treetagger.jpeg)
 
 ---
 
 ### Species Guide
 Displays tree information and environmental details.
 
-![Guide](screenshots/guide.jpeg)
+![Guide 1](screenshots/SpeciesGuide.jpeg)
+![Guide](screenshots/SpeciesGuide1.jpeg)
 
 ---
 
@@ -202,7 +203,7 @@ Shows:
 - Mapped trees
 - Empty pit count
 
-![Score](screenshots/score.jpeg)
+![Score](screenshots/Oxygenscore.jpeg)
 
 ---
 
