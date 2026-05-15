@@ -176,7 +176,7 @@ Run → Run App
 ### Login Screen
 Shows login and offline access support.
 
-![Login]()
+![Login](screenshots/Login.jpeg)
 
 ---
 
