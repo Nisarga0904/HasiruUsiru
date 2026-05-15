@@ -186,15 +186,6 @@ Users can record trees and upload details.
 ![Tree Tagger](screenshots/Treetagger.jpeg)
 
 ---
-
-### Species Guide
-Displays tree information and environmental details.
-
-![Guide 1](screenshots/SpeciesGuide.jpeg)
-![Guide](screenshots/SpeciesGuide1.jpeg)
-
----
-
 ### Oxygen Score Dashboard
 
 Shows:
@@ -207,17 +198,16 @@ Shows:
 
 ---
 
-## 🎥 Demo Video
+### Species Guide
+Displays tree information and environmental details.
 
-Demo Link:
-
-Add your video link here
-
-Example:
-
-https://youtube.com/your-demo-video
+![Guide 1](screenshots/SpeciesGuide.jpeg)
+![Guide](screenshots/SpeciesGuide1.jpeg)
 
 ---
+
+
+
 
 ## 🚀 Future Improvements
 
@@ -235,7 +225,7 @@ Planned enhancements:
 
 ## 👨‍💻 Developed By
 
-Nisarga S Gowda
+Nisarga S
 
 Hasiru Usiru — Community Green Auditor for Bengaluru and Mysuru
 
